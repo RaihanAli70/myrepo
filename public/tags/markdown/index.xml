@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Ali</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in Markdown on Ali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Routing Static</title>
+      <link>http://localhost:1313/content/post/routing/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/content/post/routing/</guid>
+      <description>Configuring static routing in MikroTik RouterOS is quite straightforward. Here&amp;rsquo;s how you can do it using the WinBox GUI:&#xA;Login to your MikroTik router: Open the WinBox application, enter the IP address of your MikroTik router in the Connect To field, and click on Connect. Then enter your credentials to log in.&#xA;Navigate to IP &amp;gt; Routes: On the left-hand side menu, go to IP and then Routes.&#xA;Add a static route: Click on the &amp;ldquo;+&amp;rdquo; icon to add a new static route.</description>
+    </item>
+  </channel>
+</rss>
